@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475125349650",
+    "project_id": "projectwork-322110",
+    "storage_bucket": "projectwork-322110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475125349650:android:28c3b2137af4819d7e47cb",
+        "android_client_info": {
+          "package_name": "com.projectwork.lms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475125349650-uqbf8v4qlabjtmam84irfjit2ofeduc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCweDjUD0k2118blUCeEjcmeUcq-RGTRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475125349650-uqbf8v4qlabjtmam84irfjit2ofeduc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
